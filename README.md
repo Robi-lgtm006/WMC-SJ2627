@@ -1,3 +1,3 @@
 # WMC-SJ2627
 
-Das ist meine Hausübung.      
+Das ist meine Hausübung     
